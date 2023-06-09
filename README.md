@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF31&background=161B2200&center=true&vCenter=true&multiline=true&width=800&lines=%F0%9F%91%8B+Hi!+I+am+Lakshay+Setia)](https://git.io/typing-svg)
+<!-- markdownlint-disable MD033 MD041 -->
+<h1 align="center">Hi 👋, I'm Lakshay Setia</h1>
+<!-- markdownlint-enable MD033 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roberto+Mono&size=25&pause=1000&color=3FB950&center=true&vCenter=true&width=1000&lines=Fullstack+Web+Developer;Android+Developer)](https://git.io/typing-svg)
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF31&background=161B2200&center=true&vCenter=true&multiline=true&width=800&lines=%F0%9F%91%8B+Hi!+I+am+Lakshay+Setia)](https://git.io/typing-svg) -->
+
 <br>
 <br>
 
