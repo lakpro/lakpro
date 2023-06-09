@@ -5,9 +5,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roberto+Mono&size=25&pause=1000&color=3FB950&center=true&vCenter=true&width=1000&lines=Fullstack+Web+Developer;Android+Developer)](https://git.io/typing-svg)
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF31&background=161B2200&center=true&vCenter=true&multiline=true&width=800&lines=%F0%9F%91%8B+Hi!+I+am+Lakshay+Setia)](https://git.io/typing-svg) -->
+<!-- 
+<br>
+<br> -->
 
-<br>
-<br>
+## About Me:
+- 🎓 I'm a final year student pursuing B.tech in CSE from LNMIIT, Jaipur (2020-2024)
+- 🔭 I’m currently looking for internship and placement opportunities
+- 🌱 Exploring MUI, Typescript and NextJS
+- 📫 How to reach me: mailto:lakshaysetia123@gmail.com
+- ⚡ Fun fact: I love football ⚽ and F1 🏁
 
 ## Connect with me:
 <p align = "center">
