@@ -13,7 +13,7 @@
 - 🎓 I'm a final year student pursuing B.tech in CSE from LNMIIT, Jaipur (2020-2024)
 - 🔭 I’m currently looking for internship and placement opportunities
 - 🌱 Exploring MUI, Typescript and NextJS
-- 📫 How to reach me: mailto:lakshaysetia123@gmail.com
+- 📫 How to reach me: [lakshaysetia123@gmail.com](mailto:lakshaysetia123@gmail.com)
 - ⚡ Fun fact: I love football ⚽ and F1 🏁
 
 ## Connect with me:
