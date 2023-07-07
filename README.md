@@ -12,7 +12,7 @@
 ## About Me:
 - 🎓 I'm a final year student pursuing B.tech in CSE from LNMIIT, Jaipur (2020-2024)
 - 🔭 I’m currently looking for internship and placement opportunities
-- 🌱 Exploring MUI, Typescript and NextJS
+- 🌱 Exploring and Developing Chrome Extentinos
 - 📫 How to reach me: [lakshaysetia123@gmail.com](mailto:lakshaysetia123@gmail.com)
 - ⚡ Fun fact: I love football ⚽ and F1 🏁
 
@@ -46,6 +46,7 @@
 
 <!-- #### Tools and Platforms -->
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
@@ -61,6 +62,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
+<img src ="https://img.shields.io/badge/passport.js-%23.svg?&style=for-the-badge&logo=post&logoColor=white%22&color=black">&nbsp;
+
 
 <!-- ### 📢 Find me elsewhere -->
 <!-- markdownlint-disable MD033 MD041 -->
