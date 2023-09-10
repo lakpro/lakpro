@@ -12,8 +12,8 @@
 ## About Me:
 - 🎓 I'm a final year student pursuing B.tech in CSE from LNMIIT, Jaipur (2020-2024)
 - 🔭 I’m currently looking for internship and full-time opportunities
-- 🌱 Exploring and Developing Chrome Extentinos
-- 📫 How to reach me: [lakshaysetia123@gmail.com](mailto:lakshaysetia123@gmail.com)
+- 🌱 Exploring and Developing Chrome Extentions
+- 📫 How to reach me: [setia.lakshay@outlook.com](mailto:setia.lakshay@outlook.com)
 - ⚡ Fun fact: I love football ⚽ and F1 🏁
 
 ## Connect with me:
