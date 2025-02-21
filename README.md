@@ -13,7 +13,7 @@
 - 🎓 I'm a B.tech grad in CSE from LNMIIT, Jaipur (2024)
 - 🔭 I’m currently looking for full-time opportunities
 - 🌱 Exploring and Developing Chrome Extensions
-- 📫 How to reach me: [setia.lakshay@outlook.com](mailto:setia.lakshay@outlook.com)
+- 📫 How to reach me: [lakshaysetia123@gmail.com](mailto:lakshaysetia123@gmail.com)
 - ⚡ Fun fact: I love football ⚽ and F1 🏁
 
 ## Connect with me:
