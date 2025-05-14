@@ -20,7 +20,7 @@
 <p align = "center">
 
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=web&logoColor=white%22&color=black">](https://lakpro.github.io/port-mob/)&nbsp;
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=web&logoColor=white%22&color=black">](https://lakpro.github.io)&nbsp;
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/lakshay-setia/)&nbsp;
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/lakshay.setia/)&nbsp;
  [<img src ="https://img.shields.io/badge/mail-%23.svg?&style=for-the-badge&logo=post&logoColor=white%22&color=black">](mailto:lakshaysetia123@gmail.com)&nbsp;
@@ -40,9 +40,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-<!-- #### Database -->
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
 
 <!-- #### Tools and Platforms -->
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -64,6 +62,21 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
 <img src ="https://img.shields.io/badge/passport.js-%23.svg?&style=for-the-badge&logo=post&logoColor=white%22&color=black">&nbsp;
+
+<!-- #### AI -->
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)&nbsp;
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)&nbsp;
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)&nbsp;
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge&logo=googlegemini)&nbsp;
+
+<!-- #### Database -->
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+
+
+
 
 
 <!-- ### 📢 Find me elsewhere -->
